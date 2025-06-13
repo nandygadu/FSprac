@@ -6,3 +6,4 @@ study books
 attend classes on time
 visit aunt
 apply for remote jobs
+Practice code
